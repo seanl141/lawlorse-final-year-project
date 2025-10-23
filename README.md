@@ -17,5 +17,5 @@ This project aims to set up and test **Encrypted ClientHello (ECH)** on a Lightt
 | **Feb 17–Mar 1** | - Review and refine LaTeX report<br>- Add figures, tables, and diagrams | Ensure clarity and reproducibility |
 | **Mar 2–15** | - Supervisor feedback and revisions<br>- Finalize code and documentation on GitHub | Clean up repo and LaTeX PDF |
 | **Mar 16–29** | - Prepare project presentation/demo<br>- Test demo setup | Keep slides concise and demo reproducible |
-| **Mar 30–Apr 12** | - Submit final report and project deliverables<br>- Present project | Ensure GitHub repo and LaTeX PDF are finalized <br> - Stretch Goal: Submit pul request to lighttdp repo|
+| **Mar 30–Apr 12** | - Submit final report and project deliverables<br> - Stretch Goal: Submit pul request to lighttdp repo <br>- Present project | Ensure GitHub repo and LaTeX PDF are finalized |
 

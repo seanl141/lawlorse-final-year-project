@@ -6,7 +6,7 @@ This project aims to set up and test **Encrypted ClientHello (ECH)** on a Lightt
 | Period | Goals / Deliverables | Notes |
 |--------|-------------------|-------|
 | **Oct 14–27** | - Begin learning LaTeX basics | Focus on environment setup and version control workflow |
-| **Oct 28–Nov 10** | - Study ECH protocol in detail<br>- Test basic TLS setup and certificates<br>- Document initial setup in LaTeX | Start simple diagrams or notes in LaTeX |
+| **Oct 28–Nov 10** | - Study ECH protocol in detail<br>- Test basic TLS setup and certificates<br> - Research and understand test harness and how to design one for ECH <br>- Document initial setup in LaTeX | Start simple diagrams or notes in LaTeX |
 | **Nov 11–24** | - Enable ECH on Lighttpd<br>- Capture test results with `openssl s_client` or similar tools<br>- Upload results to GitHub | Achieve a working proof-of-concept |
 | **Nov 25–Dec 8** | - Test ECH with multiple browsers (Chrome, Firefox, etc.)<br>- Record successes and failures<br>- Update LaTeX documentation | Include screenshots and command outputs |
 | **Dec 9–22** | -  Basic performance measurements<br>- Begin structured LaTeX report | Prepare charts/graphs for results |
@@ -17,5 +17,5 @@ This project aims to set up and test **Encrypted ClientHello (ECH)** on a Lightt
 | **Feb 17–Mar 1** | - Review and refine LaTeX report<br>- Add figures, tables, and diagrams | Ensure clarity and reproducibility |
 | **Mar 2–15** | - Supervisor feedback and revisions<br>- Finalize code and documentation on GitHub | Clean up repo and LaTeX PDF |
 | **Mar 16–29** | - Prepare project presentation/demo<br>- Test demo setup | Keep slides concise and demo reproducible |
-| **Mar 30–Apr 12** | - Submit final report and project deliverables<br>- Present project | Ensure GitHub repo and LaTeX PDF are finalized |
+| **Mar 30–Apr 12** | - Submit final report and project deliverables<br>- Present project | Ensure GitHub repo and LaTeX PDF are finalized <br> - Stretch Goal: Submit pul request to lighttdp repo|
 
